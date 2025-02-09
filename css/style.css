@@ -691,6 +691,7 @@ cursor: pointer;
   transform: rotateY(180deg);
   cursor: pointer;
   gap: 10px;
+  font-size: 12px;
 }
 .cardx .back{
   background-color:pink;
