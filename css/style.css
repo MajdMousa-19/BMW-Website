@@ -176,6 +176,41 @@ align-items: center;
   font-size: 50px;
   transform: translateY(-30px);
   color: rgba(0, 177, 256, 1);
+  animation-name: color;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+}
+@keyframes color{
+  0%{
+    color: #f60e0e;
+    }
+  5%{
+    color: #c25b11;
+  }
+  15%{
+    color: #dbff10;
+  }
+  25%{
+    color: #0ef640;
+    }
+  38%{
+    color: #1d959e;
+  }
+  52%{
+    color: #1028ff;
+  }
+  63%{
+    color: #891d9e;
+  }
+  75%{
+    color: #ff10e7;
+  }
+  90%{
+    color: #ff104c;
+  }
+  100%{
+    color: #f60e0e;
+  }
 }
 .hero h4{
   font-size: 30px;
@@ -367,6 +402,20 @@ color: gold
 .buy .buy-box:hover .i{
   visibility: visible;
   transition: .2s;
+  animation-name: icon;
+  animation-duration:1s;
+  animation-iteration-count: infinite;
+}
+@keyframes icon{
+  0%{
+    left: 50px;
+  }
+  50%{
+    left: 40px;
+  }
+  100%{
+    left: 50px;
+  }
 }
 .buy .buy-box .foot{
 display: flex;
