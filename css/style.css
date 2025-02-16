@@ -332,8 +332,8 @@ align-items: center;
     left: 6px;
     width: 3rem;
     height: 3rem;
-    background-color: black;
-    color: red;
+    background-color: red;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -714,7 +714,7 @@ cursor: pointer;
 /* Start Footer */
 .footer4{
   text-align: center;
-  background-color: rgb(241, 174, 79);
+  background-color: white;
   display: flex;
   border-radius: 100% 100% 0 0;
 }
