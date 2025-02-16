@@ -439,7 +439,7 @@ margin-top:  20px; ;
   margin: 60px 0px;
 }
 .titel-bmw1{
-color: #106bff;
+color: white;
 position: relative;
 font-weight: 700;
 }
@@ -453,7 +453,7 @@ font-weight: 700;
   bottom: -12px;
 }
 .titel-bmw2{
-color: #106bff;
+color: white;
 position: relative;
 font-weight: 700;
 display: flex;
@@ -620,7 +620,7 @@ border-radius: 5px;
 /* Start Card */
 .title-bmw-new-car{
   text-align: center;
-  color: #106bff;
+  color: white;
   font-size: 50px;
   cursor: pointer;
   position: relative;
