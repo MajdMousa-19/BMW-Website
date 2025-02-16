@@ -513,7 +513,7 @@ transition: .5s;
 border-radius: 5px;
 }
 .bmw .box1 .text button:hover{
-  background-color: rgb(245, 218, 180);
+  background-color: white;
   color: #347ff9;
   transition: .5s;
 }
