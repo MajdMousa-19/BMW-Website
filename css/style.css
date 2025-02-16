@@ -785,8 +785,9 @@ a{
   border: 50%;
 }
 .footer4 .media-icons a svg:hover{
-  fill: #fff;
   transition: .3s;
+  transform:translateY(-3px);
+
 }
 /* End Footer */
 
